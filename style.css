@@ -148,3 +148,23 @@
 .thank-img{
     width: 270px;
 }
+.icon{
+    font-size: 35px;
+}
+.icon-bg{
+    width: 80px;
+    height: 80px;
+    background-color: #faf7e8;
+    padding-top: 22px;
+    padding-bottom: 14px;
+    padding-right:16px ;
+    padding-left: 16px;
+    margin: 15px;
+    border-radius: 40px;
+}
+.icon-bg:hover{
+    .icon{
+        transform: scale(1.2);
+        
+    }
+}
