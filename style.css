@@ -10,7 +10,7 @@
     font-family: Roboto;
 }
 #custom-nav-link1:hover, #custom-nav-link2:hover, #custom-nav-link3:hover, #custom-nav-link4:hover{
-    color: gray;
+    transform: translateY(-3px);
 }
 .mainBanner{
     background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
@@ -168,3 +168,21 @@
         
     }
 }
+.bottom-section{
+    background-color: #0d2436;
+}
+.bottom-img{
+    width: 150px;
+}
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  .footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+  }
